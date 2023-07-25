@@ -1,8 +1,5 @@
 import React from "react";
 import App from "../App";
-// import Search from "./Search";
-
-
 
 
 function PokemonList({ pokemon, search, }) {

@@ -53,7 +53,7 @@ function App() {
     setcurrentPageUrl(nextPageUrl);
   }
 
-  // Add this code at the end of your JavaScript file or inside a script tag in your HTML
+  
 document.addEventListener('DOMContentLoaded', () => {
   const cards = document.querySelectorAll('.card');
   cards.forEach((card) => {
